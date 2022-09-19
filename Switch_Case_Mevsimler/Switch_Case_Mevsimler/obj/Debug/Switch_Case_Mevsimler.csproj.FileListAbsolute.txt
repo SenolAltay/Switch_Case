@@ -1,0 +1,6 @@
+C:\Users\ŞENOL\source\repos\Switch_Case_Mevsimler\Switch_Case_Mevsimler\bin\Debug\Switch_Case_Mevsimler.exe.config
+C:\Users\ŞENOL\source\repos\Switch_Case_Mevsimler\Switch_Case_Mevsimler\bin\Debug\Switch_Case_Mevsimler.exe
+C:\Users\ŞENOL\source\repos\Switch_Case_Mevsimler\Switch_Case_Mevsimler\bin\Debug\Switch_Case_Mevsimler.pdb
+C:\Users\ŞENOL\source\repos\Switch_Case_Mevsimler\Switch_Case_Mevsimler\obj\Debug\Switch_Case_Mevsimler.csproj.CoreCompileInputs.cache
+C:\Users\ŞENOL\source\repos\Switch_Case_Mevsimler\Switch_Case_Mevsimler\obj\Debug\Switch_Case_Mevsimler.exe
+C:\Users\ŞENOL\source\repos\Switch_Case_Mevsimler\Switch_Case_Mevsimler\obj\Debug\Switch_Case_Mevsimler.pdb
